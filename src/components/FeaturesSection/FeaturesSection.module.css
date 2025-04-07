@@ -1,0 +1,25 @@
+.features {
+    display: flex;
+    height: 200px;
+}
+
+.feature {
+    flex: 1;
+    padding: 50px;
+    color: white;
+    text-decoration: none;
+    position: relative;
+    font-style: italic;
+}
+
+.feature:hover {
+    opacity: 0.8;
+}
+
+.line {
+    width: 60%;
+    height: 2px;
+    background: gray;
+    position: absolute;
+    top: 40px;
+}

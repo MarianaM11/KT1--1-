@@ -1,0 +1,12 @@
+.info {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    background: white;
+}
+
+.content {
+    max-width: 80%;
+    font-style: italic;
+    text-align: left;
+}

@@ -1,0 +1,22 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+    background: #fefde6;
+}
+
+.content {
+    max-width: 50%;
+}
+
+.content h1 {
+    font-size: 24px;
+    font-style: italic;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    background: url("../../assets/hero-dono.png") no-repeat center/cover;
+}
